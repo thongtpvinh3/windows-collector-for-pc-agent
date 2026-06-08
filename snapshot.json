@@ -1,0 +1,4967 @@
+﻿{
+  "snapshotId": "3e45ba57-446c-40f9-93dd-b483ebb2ef24",
+  "agentId": "DESKTOP-C8LJSEB",
+  "hostname": "DESKTOP-C8LJSEB",
+  "os": "Microsoft Windows NT 10.0.26200.0",
+  "appVersion": "1.0.0",
+  "sequence": 1780894239281,
+  "timestamp": "2026-06-08T04:50:44.775Z",
+  "devices": [
+    {
+      "device": {
+        "deviceId": "ae58e17c4e973a7d",
+        "type": 4,
+        "name": "ASUS TUF GAMING Z690-PLUS WIFI D4",
+        "vendor": "",
+        "model": "ASUS TUF GAMING Z690-PLUS WIFI D4",
+        "attributes": {
+          "hardwareType": "Motherboard",
+          "identifier": "/motherboard"
+        }
+      },
+      "collectedAt": "2026-06-08T04:50:44.775Z",
+      "metrics": [
+        {
+          "name": "mainboard.control.fan_1",
+          "value": 61.960785,
+          "unit": "%",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "mainboard.control.fan_2",
+          "value": 60,
+          "unit": "%",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "mainboard.control.fan_3",
+          "value": 61.960785,
+          "unit": "%",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "mainboard.control.fan_4",
+          "value": 61.960785,
+          "unit": "%",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "mainboard.control.fan_5",
+          "value": 61.960785,
+          "unit": "%",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "mainboard.control.fan_6",
+          "value": 100,
+          "unit": "%",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "mainboard.control.fan_7",
+          "value": 61.960785,
+          "unit": "%",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "mainboard.voltage.vcore",
+          "value": 0.648,
+          "unit": "V",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "mainboard.voltage.voltage_2",
+          "value": 1.008,
+          "unit": "V",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "mainboard.voltage.avcc",
+          "value": 3.3920002,
+          "unit": "V",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "mainboard.voltage.3_3v",
+          "value": 3.328,
+          "unit": "V",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "mainboard.voltage.voltage_5",
+          "value": 1.008,
+          "unit": "V",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "mainboard.voltage.voltage_7",
+          "value": 0.68,
+          "unit": "V",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "mainboard.voltage.3v_standby",
+          "value": 3.3920002,
+          "unit": "V",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "mainboard.voltage.cmos_battery",
+          "value": 3.1840003,
+          "unit": "V",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "mainboard.voltage.cpu_termination",
+          "value": 0.536,
+          "unit": "V",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "mainboard.voltage.voltage_11",
+          "value": 0.6,
+          "unit": "V",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "mainboard.voltage.voltage_13",
+          "value": 1.064,
+          "unit": "V",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "mainboard.voltage.voltage_14",
+          "value": 0.39200002,
+          "unit": "V",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "mainboard.voltage.voltage_15",
+          "value": 0.90400004,
+          "unit": "V",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "cpu.temperature.cpu_core",
+          "value": 55,
+          "unit": "°C",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "mainboard.temperature.temperature_1",
+          "value": 43,
+          "unit": "°C",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "mainboard.temperature.temperature_2",
+          "value": 37,
+          "unit": "°C",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "mainboard.temperature.temperature_3",
+          "value": 44.5,
+          "unit": "°C",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "mainboard.temperature.temperature_4",
+          "value": 15,
+          "unit": "°C",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "mainboard.temperature.temperature_5",
+          "value": 52,
+          "unit": "°C",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "mainboard.temperature.temperature_6",
+          "value": 31,
+          "unit": "°C",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "mainboard.fan.fan_1",
+          "value": 0,
+          "unit": "RPM",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "mainboard.fan.fan_2",
+          "value": 1340.6157,
+          "unit": "RPM",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "mainboard.fan.fan_3",
+          "value": 0,
+          "unit": "RPM",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "mainboard.fan.fan_4",
+          "value": 0,
+          "unit": "RPM",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "mainboard.fan.fan_5",
+          "value": 0,
+          "unit": "RPM",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "mainboard.fan.fan_6",
+          "value": 0,
+          "unit": "RPM",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "mainboard.fan.fan_7",
+          "value": 0,
+          "unit": "RPM",
+          "status": 0,
+          "message": ""
+        }
+      ]
+    },
+    {
+      "device": {
+        "deviceId": "1ba23b68ca249ca9",
+        "type": 0,
+        "name": "13th Gen Intel Core i7-13700K",
+        "vendor": "Intel",
+        "model": "13th Gen Intel Core i7-13700K",
+        "attributes": {
+          "hardwareType": "Cpu",
+          "identifier": "/intelcpu/0"
+        }
+      },
+      "collectedAt": "2026-06-08T04:50:44.775Z",
+      "metrics": [
+        {
+          "name": "cpu.load.cpu_core_1_thread_1",
+          "value": 2.08,
+          "unit": "%",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "cpu.load.cpu_core_1_thread_2",
+          "value": 1.19,
+          "unit": "%",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "cpu.load.cpu_core_2_thread_1",
+          "value": 1.19,
+          "unit": "%",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "cpu.load.cpu_core_2_thread_2",
+          "value": 7.72,
+          "unit": "%",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "cpu.load.cpu_core_3_thread_1",
+          "value": 5.64,
+          "unit": "%",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "cpu.load.cpu_core_3_thread_2",
+          "value": 1.49,
+          "unit": "%",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "cpu.load.cpu_core_4_thread_1",
+          "value": 6.23,
+          "unit": "%",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "cpu.load.cpu_core_4_thread_2",
+          "value": 1.48,
+          "unit": "%",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "cpu.load.cpu_core_5_thread_1",
+          "value": 25.82,
+          "unit": "%",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "cpu.load.cpu_core_5_thread_2",
+          "value": 7.44,
+          "unit": "%",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "cpu.load.cpu_core_6_thread_1",
+          "value": 2.11,
+          "unit": "%",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "cpu.load.cpu_core_6_thread_2",
+          "value": 23.15,
+          "unit": "%",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "cpu.load.cpu_core_7_thread_1",
+          "value": 3.3,
+          "unit": "%",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "cpu.load.cpu_core_7_thread_2",
+          "value": 0.3,
+          "unit": "%",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "cpu.load.cpu_core_8_thread_1",
+          "value": 2.4,
+          "unit": "%",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "cpu.load.cpu_core_8_thread_2",
+          "value": 1.49,
+          "unit": "%",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "cpu.load.cpu_core_9",
+          "value": 7.42,
+          "unit": "%",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "cpu.load.cpu_core_10",
+          "value": 5.34,
+          "unit": "%",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "cpu.load.cpu_core_11",
+          "value": 2.97,
+          "unit": "%",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "cpu.load.cpu_core_12",
+          "value": 3.26,
+          "unit": "%",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "cpu.load.cpu_core_13",
+          "value": 8.61,
+          "unit": "%",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "cpu.load.cpu_core_14",
+          "value": 2.37,
+          "unit": "%",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "cpu.load.cpu_core_15",
+          "value": 2.97,
+          "unit": "%",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "cpu.load.cpu_core_16",
+          "value": 8.63,
+          "unit": "%",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "cpu.load.cpu_total",
+          "value": 5.61,
+          "unit": "%",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "cpu.load.cpu_core_max",
+          "value": 25.82,
+          "unit": "%",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "cpu.temperature.core_max",
+          "value": 61,
+          "unit": "°C",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "cpu.temperature.core_average",
+          "value": 48.25,
+          "unit": "°C",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "cpu.temperature.p_core_1",
+          "value": 48,
+          "unit": "°C",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "cpu.temperature.p_core_2",
+          "value": 47,
+          "unit": "°C",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "cpu.temperature.p_core_3",
+          "value": 49,
+          "unit": "°C",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "cpu.temperature.p_core_4",
+          "value": 50,
+          "unit": "°C",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "cpu.temperature.p_core_5",
+          "value": 49,
+          "unit": "°C",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "cpu.temperature.p_core_6",
+          "value": 61,
+          "unit": "°C",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "cpu.temperature.p_core_7",
+          "value": 47,
+          "unit": "°C",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "cpu.temperature.p_core_8",
+          "value": 49,
+          "unit": "°C",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "cpu.temperature.e_core_1",
+          "value": 46,
+          "unit": "°C",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "cpu.temperature.e_core_2",
+          "value": 46,
+          "unit": "°C",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "cpu.temperature.e_core_3",
+          "value": 46,
+          "unit": "°C",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "cpu.temperature.e_core_4",
+          "value": 46,
+          "unit": "°C",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "cpu.temperature.e_core_5",
+          "value": 47,
+          "unit": "°C",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "cpu.temperature.e_core_6",
+          "value": 47,
+          "unit": "°C",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "cpu.temperature.e_core_7",
+          "value": 47,
+          "unit": "°C",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "cpu.temperature.e_core_8",
+          "value": 47,
+          "unit": "°C",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "cpu.temperature.cpu_package",
+          "value": 55,
+          "unit": "°C",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "cpu.temperature.p_core_1_distance_to_tjmax",
+          "value": 52,
+          "unit": "°C",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "cpu.temperature.p_core_2_distance_to_tjmax",
+          "value": 53,
+          "unit": "°C",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "cpu.temperature.p_core_3_distance_to_tjmax",
+          "value": 51,
+          "unit": "°C",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "cpu.temperature.p_core_4_distance_to_tjmax",
+          "value": 50,
+          "unit": "°C",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "cpu.temperature.p_core_5_distance_to_tjmax",
+          "value": 51,
+          "unit": "°C",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "cpu.temperature.p_core_6_distance_to_tjmax",
+          "value": 39,
+          "unit": "°C",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "cpu.temperature.p_core_7_distance_to_tjmax",
+          "value": 53,
+          "unit": "°C",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "cpu.temperature.p_core_8_distance_to_tjmax",
+          "value": 51,
+          "unit": "°C",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "cpu.temperature.e_core_1_distance_to_tjmax",
+          "value": 54,
+          "unit": "°C",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "cpu.temperature.e_core_2_distance_to_tjmax",
+          "value": 54,
+          "unit": "°C",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "cpu.temperature.e_core_3_distance_to_tjmax",
+          "value": 54,
+          "unit": "°C",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "cpu.temperature.e_core_4_distance_to_tjmax",
+          "value": 54,
+          "unit": "°C",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "cpu.temperature.e_core_5_distance_to_tjmax",
+          "value": 53,
+          "unit": "°C",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "cpu.temperature.e_core_6_distance_to_tjmax",
+          "value": 53,
+          "unit": "°C",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "cpu.temperature.e_core_7_distance_to_tjmax",
+          "value": 53,
+          "unit": "°C",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "cpu.temperature.e_core_8_distance_to_tjmax",
+          "value": 53,
+          "unit": "°C",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "cpu.clock.p_core_1",
+          "value": 5327.569,
+          "unit": "MHz",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "cpu.clock.p_core_2",
+          "value": 5327.569,
+          "unit": "MHz",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "cpu.clock.p_core_3",
+          "value": 5327.569,
+          "unit": "MHz",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "cpu.clock.p_core_4",
+          "value": 2814.5647,
+          "unit": "MHz",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "cpu.clock.p_core_5",
+          "value": 1708.8429,
+          "unit": "MHz",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "cpu.clock.p_core_6",
+          "value": 1809.363,
+          "unit": "MHz",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "cpu.clock.p_core_7",
+          "value": 904.6815,
+          "unit": "MHz",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "cpu.clock.p_core_8",
+          "value": 1105.7218,
+          "unit": "MHz",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "cpu.clock.e_core_1",
+          "value": 4121.3267,
+          "unit": "MHz",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "cpu.clock.e_core_2",
+          "value": 4121.3267,
+          "unit": "MHz",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "cpu.clock.e_core_3",
+          "value": 4121.3267,
+          "unit": "MHz",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "cpu.clock.e_core_4",
+          "value": 1809.363,
+          "unit": "MHz",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "cpu.clock.e_core_5",
+          "value": 804.1613,
+          "unit": "MHz",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "cpu.clock.e_core_6",
+          "value": 4121.3267,
+          "unit": "MHz",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "cpu.clock.e_core_7",
+          "value": 804.1613,
+          "unit": "MHz",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "cpu.clock.e_core_8",
+          "value": 4121.3267,
+          "unit": "MHz",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "cpu.power.cpu_package",
+          "value": 28.104715,
+          "unit": "W",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "cpu.power.cpu_cores",
+          "value": 21.301098,
+          "unit": "W",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "cpu.power.cpu_memory",
+          "value": 0,
+          "unit": "W",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "cpu.power.cpu_platform",
+          "value": 0,
+          "unit": "W",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "cpu.voltage.cpu_core",
+          "value": 1.3172607,
+          "unit": "V",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "cpu.voltage.p_core_1",
+          "value": 1.3222656,
+          "unit": "V",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "cpu.voltage.p_core_2",
+          "value": 1.3122559,
+          "unit": "V",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "cpu.voltage.p_core_3",
+          "value": 1.307251,
+          "unit": "V",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "cpu.voltage.p_core_4",
+          "value": 1.307251,
+          "unit": "V",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "cpu.voltage.p_core_5",
+          "value": 1.2875977,
+          "unit": "V",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "cpu.voltage.p_core_6",
+          "value": 1.2875977,
+          "unit": "V",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "cpu.voltage.p_core_7",
+          "value": 1.272583,
+          "unit": "V",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "cpu.voltage.p_core_8",
+          "value": 1.272583,
+          "unit": "V",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "cpu.voltage.e_core_1",
+          "value": 1.2875977,
+          "unit": "V",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "cpu.voltage.e_core_2",
+          "value": 1.2875977,
+          "unit": "V",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "cpu.voltage.e_core_3",
+          "value": 1.2875977,
+          "unit": "V",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "cpu.voltage.e_core_4",
+          "value": 1.272583,
+          "unit": "V",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "cpu.voltage.e_core_5",
+          "value": 1.272583,
+          "unit": "V",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "cpu.voltage.e_core_6",
+          "value": 1.272583,
+          "unit": "V",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "cpu.voltage.e_core_7",
+          "value": 1.2875977,
+          "unit": "V",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "cpu.voltage.e_core_8",
+          "value": 1.2954102,
+          "unit": "V",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "cpu.clock.bus_speed",
+          "value": 100.520164,
+          "unit": "MHz",
+          "status": 0,
+          "message": ""
+        }
+      ]
+    },
+    {
+      "device": {
+        "deviceId": "e7677ced47d816f9",
+        "type": 1,
+        "name": "Virtual Memory",
+        "vendor": "",
+        "model": "Virtual Memory",
+        "attributes": {
+          "hardwareType": "Memory",
+          "identifier": "/vram"
+        }
+      },
+      "collectedAt": "2026-06-08T04:50:44.775Z",
+      "metrics": [
+        {
+          "name": "ram.data.memory_used",
+          "value": 33.74445,
+          "unit": "GB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "ram.data.memory_available",
+          "value": 13.502815,
+          "unit": "GB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "ram.load.memory",
+          "value": 71.42096,
+          "unit": "%",
+          "status": 0,
+          "message": ""
+        }
+      ]
+    },
+    {
+      "device": {
+        "deviceId": "517f732cd02bdfb5",
+        "type": 1,
+        "name": "Total Memory",
+        "vendor": "",
+        "model": "Total Memory",
+        "attributes": {
+          "hardwareType": "Memory",
+          "identifier": "/ram"
+        }
+      },
+      "collectedAt": "2026-06-08T04:50:44.775Z",
+      "metrics": [
+        {
+          "name": "ram.data.memory_used",
+          "value": 20.590553,
+          "unit": "GB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "ram.data.memory_available",
+          "value": 11.156712,
+          "unit": "GB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "ram.load.memory",
+          "value": 64.85773,
+          "unit": "%",
+          "status": 0,
+          "message": ""
+        }
+      ]
+    },
+    {
+      "device": {
+        "deviceId": "20bf934b39a78791",
+        "type": 1,
+        "name": "Kingston - KF3200C16D4/16GX (#1)",
+        "vendor": "Kingston",
+        "model": "Kingston - KF3200C16D4/16GX (#1)",
+        "attributes": {
+          "hardwareType": "Memory",
+          "identifier": "/memory/dimm/1"
+        }
+      },
+      "collectedAt": "2026-06-08T04:50:44.775Z",
+      "metrics": [
+        {
+          "name": "ram.timing.tckavgmin_minimum_cycle_time",
+          "value": 0.833,
+          "unit": "",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "ram.timing.tckavgmax_maximum_cycle_time",
+          "value": 1.6,
+          "unit": "",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "ram.timing.taa_cas_latency_time",
+          "value": 13.75,
+          "unit": "",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "ram.timing.trcd_ras_to_cas_delay_time",
+          "value": 13.75,
+          "unit": "",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "ram.timing.trp_row_precharge_delay_time",
+          "value": 13.75,
+          "unit": "",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "ram.timing.tras_active_to_precharge_delay_time",
+          "value": 32,
+          "unit": "",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "ram.timing.trc_active_to_active_refresh_delay_time",
+          "value": 45.75,
+          "unit": "",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "ram.timing.trfc1_refresh_recovery_delay_time",
+          "value": 350,
+          "unit": "",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "ram.timing.trfc2_refresh_recovery_delay_time",
+          "value": 260,
+          "unit": "",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "ram.timing.trfc4_refresh_recovery_delay_time",
+          "value": 160,
+          "unit": "",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "ram.timing.tfaw_four_activate_window_time",
+          "value": 21,
+          "unit": "",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "ram.timing.trrd_s_activate_to_activate_delay_time",
+          "value": 3.3,
+          "unit": "",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "ram.timing.trrd_l_activate_to_activate_delay_time",
+          "value": 4.9,
+          "unit": "",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "ram.timing.tccd_l_cas_to_cas_delay_time",
+          "value": 5,
+          "unit": "",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "ram.timing.twr_write_recovery_time",
+          "value": 15,
+          "unit": "",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "ram.timing.twtr_s_write_to_read_time",
+          "value": 2.5,
+          "unit": "",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "ram.timing.twtr_l_write_to_read_time",
+          "value": 7.5,
+          "unit": "",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "ram.data.capacity",
+          "value": 16,
+          "unit": "GB",
+          "status": 0,
+          "message": ""
+        }
+      ]
+    },
+    {
+      "device": {
+        "deviceId": "1c2342c78f476970",
+        "type": 1,
+        "name": "Kingston - KF3200C16D4/16GX (#3)",
+        "vendor": "Kingston",
+        "model": "Kingston - KF3200C16D4/16GX (#3)",
+        "attributes": {
+          "hardwareType": "Memory",
+          "identifier": "/memory/dimm/3"
+        }
+      },
+      "collectedAt": "2026-06-08T04:50:44.775Z",
+      "metrics": [
+        {
+          "name": "ram.timing.tckavgmin_minimum_cycle_time",
+          "value": 0.833,
+          "unit": "",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "ram.timing.tckavgmax_maximum_cycle_time",
+          "value": 1.6,
+          "unit": "",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "ram.timing.taa_cas_latency_time",
+          "value": 13.75,
+          "unit": "",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "ram.timing.trcd_ras_to_cas_delay_time",
+          "value": 13.75,
+          "unit": "",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "ram.timing.trp_row_precharge_delay_time",
+          "value": 13.75,
+          "unit": "",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "ram.timing.tras_active_to_precharge_delay_time",
+          "value": 32,
+          "unit": "",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "ram.timing.trc_active_to_active_refresh_delay_time",
+          "value": 45.75,
+          "unit": "",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "ram.timing.trfc1_refresh_recovery_delay_time",
+          "value": 350,
+          "unit": "",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "ram.timing.trfc2_refresh_recovery_delay_time",
+          "value": 260,
+          "unit": "",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "ram.timing.trfc4_refresh_recovery_delay_time",
+          "value": 160,
+          "unit": "",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "ram.timing.tfaw_four_activate_window_time",
+          "value": 21,
+          "unit": "",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "ram.timing.trrd_s_activate_to_activate_delay_time",
+          "value": 3.3,
+          "unit": "",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "ram.timing.trrd_l_activate_to_activate_delay_time",
+          "value": 4.9,
+          "unit": "",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "ram.timing.tccd_l_cas_to_cas_delay_time",
+          "value": 5,
+          "unit": "",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "ram.timing.twr_write_recovery_time",
+          "value": 15,
+          "unit": "",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "ram.timing.twtr_s_write_to_read_time",
+          "value": 2.5,
+          "unit": "",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "ram.timing.twtr_l_write_to_read_time",
+          "value": 7.5,
+          "unit": "",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "ram.data.capacity",
+          "value": 16,
+          "unit": "GB",
+          "status": 0,
+          "message": ""
+        }
+      ]
+    },
+    {
+      "device": {
+        "deviceId": "02329715a2031b40",
+        "type": 2,
+        "name": "NVIDIA GeForce GTX 1660 SUPER",
+        "vendor": "NVIDIA",
+        "model": "NVIDIA GeForce GTX 1660 SUPER",
+        "attributes": {
+          "hardwareType": "GpuNvidia",
+          "identifier": "/gpu-nvidia/0"
+        }
+      },
+      "collectedAt": "2026-06-08T04:50:44.775Z",
+      "metrics": [
+        {
+          "name": "gpu.temperature.gpu_core",
+          "value": 48,
+          "unit": "°C",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "gpu.clock.gpu_core",
+          "value": 300,
+          "unit": "MHz",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "gpu.clock.gpu_memory",
+          "value": 405,
+          "unit": "MHz",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "gpu.fan.gpu_fan",
+          "value": 0,
+          "unit": "RPM",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "gpu.control.gpu_fan",
+          "value": 0,
+          "unit": "%",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "gpu.load.gpu_core",
+          "value": 2,
+          "unit": "%",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "gpu.load.gpu_memory_controller",
+          "value": 7,
+          "unit": "%",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "gpu.load.gpu_video_engine",
+          "value": 0,
+          "unit": "%",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "gpu.load.gpu_bus",
+          "value": 1,
+          "unit": "%",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "gpu.load.gpu_power",
+          "value": 14.088,
+          "unit": "%",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "gpu.load.gpu_board_power",
+          "value": 15.506,
+          "unit": "%",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "gpu.voltage.gpu_core_voltage",
+          "value": 0.61875,
+          "unit": "V",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "gpu.smalldata.d3d_dedicated_memory_used",
+          "value": 1156.8398,
+          "unit": "MB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "gpu.smalldata.d3d_shared_memory_used",
+          "value": 112.30469,
+          "unit": "MB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "gpu.load.d3d_3d",
+          "value": 2.7183733,
+          "unit": "%",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "gpu.load.d3d_compute_0",
+          "value": 0,
+          "unit": "%",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "gpu.load.d3d_overlay",
+          "value": 0,
+          "unit": "%",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "gpu.load.d3d_video_decode",
+          "value": 0,
+          "unit": "%",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "gpu.load.d3d_copy",
+          "value": 0,
+          "unit": "%",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "gpu.load.d3d_copy",
+          "value": 0.006368096,
+          "unit": "%",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "gpu.load.d3d_copy",
+          "value": 0,
+          "unit": "%",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "gpu.load.d3d_security",
+          "value": 0,
+          "unit": "%",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "gpu.load.d3d_video_encode",
+          "value": 0,
+          "unit": "%",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "gpu.load.d3d_graphics_1",
+          "value": 0,
+          "unit": "%",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "gpu.load.d3d_cuda",
+          "value": 0,
+          "unit": "%",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "gpu.load.d3d_compute_1",
+          "value": 0,
+          "unit": "%",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "gpu.load.d3d_vr",
+          "value": 0,
+          "unit": "%",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "gpu.load.d3d_copy",
+          "value": 0.009520826,
+          "unit": "%",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "gpu.load.d3d_copy",
+          "value": 0,
+          "unit": "%",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "gpu.load.d3d_copy",
+          "value": 0,
+          "unit": "%",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "gpu.load.d3d_copy",
+          "value": 0,
+          "unit": "%",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "gpu.temperature.gpu_hot_spot",
+          "value": 60.65625,
+          "unit": "°C",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "gpu.smalldata.gpu_memory_total",
+          "value": 6144,
+          "unit": "MB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "gpu.smalldata.gpu_memory_free",
+          "value": 4817,
+          "unit": "MB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "gpu.smalldata.gpu_memory_used",
+          "value": 1326,
+          "unit": "MB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "gpu.load.gpu_memory",
+          "value": 21.585655,
+          "unit": "%",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "gpu.power.gpu_package",
+          "value": 17.61,
+          "unit": "W",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "gpu.throughput.gpu_pcie_rx",
+          "value": 3399680,
+          "unit": "B/s",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "gpu.throughput.gpu_pcie_tx",
+          "value": 99328,
+          "unit": "B/s",
+          "status": 0,
+          "message": ""
+        }
+      ]
+    },
+    {
+      "device": {
+        "deviceId": "88a0b8c69fe673f1",
+        "type": 3,
+        "name": "Samsung SSD 980 1TB",
+        "vendor": "Samsung",
+        "model": "Samsung SSD 980 1TB",
+        "attributes": {
+          "hardwareType": "Storage",
+          "identifier": "/nvme/1"
+        }
+      },
+      "collectedAt": "2026-06-08T04:50:44.775Z",
+      "metrics": [
+        {
+          "name": "disk.temperature.composite_temperature",
+          "value": 46,
+          "unit": "°C",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "disk.temperature.temperature_1",
+          "value": 45.850006,
+          "unit": "°C",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "disk.temperature.temperature_2",
+          "value": 55.850006,
+          "unit": "°C",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "disk.temperature.warning_temperature",
+          "value": 81,
+          "unit": "°C",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "disk.temperature.critical_temperature",
+          "value": 84,
+          "unit": "°C",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "disk.level.life",
+          "value": 98,
+          "unit": "%",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "disk.data.data_read",
+          "value": 13439,
+          "unit": "GB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "disk.data.data_written",
+          "value": 15566,
+          "unit": "GB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "disk.factor.power_on_count",
+          "value": 1312,
+          "unit": "factor",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "disk.factor.power_on_hours",
+          "value": 1449,
+          "unit": "factor",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "disk.load.used_space",
+          "value": 65.27436,
+          "unit": "%",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "disk.data.free_space",
+          "value": 347.3275,
+          "unit": "GB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "disk.data.total_space",
+          "value": 1000.2049,
+          "unit": "GB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "disk.load.read_activity",
+          "value": 4.9385646E-05,
+          "unit": "%",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "disk.load.write_activity",
+          "value": 3.249053E-05,
+          "unit": "%",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "disk.load.total_activity",
+          "value": 99.99901,
+          "unit": "%",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "disk.throughput.read_rate",
+          "unit": "B/s",
+          "status": 1,
+          "message": "Sensor value is null, NaN, Infinity, or -Infinity."
+        },
+        {
+          "name": "disk.throughput.write_rate",
+          "unit": "B/s",
+          "status": 1,
+          "message": "Sensor value is null, NaN, Infinity, or -Infinity."
+        },
+        {
+          "name": "disk.level.available_spare",
+          "value": 100,
+          "unit": "%",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "disk.level.available_spare_threshold",
+          "value": 10,
+          "unit": "%",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "disk.level.percentage_used",
+          "value": 2,
+          "unit": "%",
+          "status": 0,
+          "message": ""
+        }
+      ]
+    },
+    {
+      "device": {
+        "deviceId": "09259f81618936e6",
+        "type": 3,
+        "name": "ST1000DM010-2EP102",
+        "vendor": "",
+        "model": "ST1000DM010-2EP102",
+        "attributes": {
+          "hardwareType": "Storage",
+          "identifier": "/hdd/0"
+        }
+      },
+      "collectedAt": "2026-06-08T04:50:44.775Z",
+      "metrics": [
+        {
+          "name": "disk.temperature.temperature",
+          "value": 37,
+          "unit": "°C",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "disk.factor.power_on_count",
+          "value": 1268,
+          "unit": "factor",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "disk.factor.power_on_hours",
+          "value": 4842,
+          "unit": "factor",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "disk.data.total_space",
+          "value": 1000.2049,
+          "unit": "GB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "disk.load.read_activity",
+          "value": 4.0103532E-05,
+          "unit": "%",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "disk.load.write_activity",
+          "value": 4.987909E-05,
+          "unit": "%",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "disk.load.total_activity",
+          "value": 99.99899,
+          "unit": "%",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "disk.throughput.read_rate",
+          "unit": "B/s",
+          "status": 1,
+          "message": "Sensor value is null, NaN, Infinity, or -Infinity."
+        },
+        {
+          "name": "disk.throughput.write_rate",
+          "unit": "B/s",
+          "status": 1,
+          "message": "Sensor value is null, NaN, Infinity, or -Infinity."
+        }
+      ]
+    },
+    {
+      "device": {
+        "deviceId": "62e2f81ac4898ee3",
+        "type": 5,
+        "name": "Bluetooth Network Connection",
+        "vendor": "",
+        "model": "Bluetooth Network Connection",
+        "attributes": {
+          "hardwareType": "Network",
+          "identifier": "/nic/%7B440277EE-7634-4085-8181-AEE096588DEC%7D"
+        }
+      },
+      "collectedAt": "2026-06-08T04:50:44.775Z",
+      "metrics": [
+        {
+          "name": "network.data.data_uploaded",
+          "value": 0,
+          "unit": "GB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.data.data_downloaded",
+          "value": 0,
+          "unit": "GB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.throughput.upload_speed",
+          "value": 0,
+          "unit": "B/s",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.throughput.download_speed",
+          "value": 0,
+          "unit": "B/s",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.load.network_utilization",
+          "value": 0,
+          "unit": "%",
+          "status": 0,
+          "message": ""
+        }
+      ]
+    },
+    {
+      "device": {
+        "deviceId": "53cf0b6e6b7ced12",
+        "type": 5,
+        "name": "Ethernet",
+        "vendor": "",
+        "model": "Ethernet",
+        "attributes": {
+          "hardwareType": "Network",
+          "identifier": "/nic/%7B91FFF09A-DB75-4084-897F-27706E0DCD26%7D"
+        }
+      },
+      "collectedAt": "2026-06-08T04:50:44.775Z",
+      "metrics": [
+        {
+          "name": "network.data.data_uploaded",
+          "value": 0,
+          "unit": "GB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.data.data_downloaded",
+          "value": 0,
+          "unit": "GB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.throughput.upload_speed",
+          "value": 0,
+          "unit": "B/s",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.throughput.download_speed",
+          "value": 0,
+          "unit": "B/s",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.load.network_utilization",
+          "value": 0,
+          "unit": "%",
+          "status": 0,
+          "message": ""
+        }
+      ]
+    },
+    {
+      "device": {
+        "deviceId": "9d6401d507467145",
+        "type": 5,
+        "name": "Ethernet (Kernel Debugger)",
+        "vendor": "",
+        "model": "Ethernet (Kernel Debugger)",
+        "attributes": {
+          "hardwareType": "Network",
+          "identifier": "/nic/%7BFFA7867E-8B47-4DA0-993D-EB47E2A49CE3%7D"
+        }
+      },
+      "collectedAt": "2026-06-08T04:50:44.775Z",
+      "metrics": [
+        {
+          "name": "network.data.data_uploaded",
+          "value": 0,
+          "unit": "GB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.data.data_downloaded",
+          "value": 0,
+          "unit": "GB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.throughput.upload_speed",
+          "value": 0,
+          "unit": "B/s",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.throughput.download_speed",
+          "value": 0,
+          "unit": "B/s",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.load.network_utilization",
+          "unit": "%",
+          "status": 1,
+          "message": "Sensor value is null, NaN, Infinity, or -Infinity."
+        }
+      ]
+    },
+    {
+      "device": {
+        "deviceId": "f71cc31030590364",
+        "type": 5,
+        "name": "Ethernet 2",
+        "vendor": "",
+        "model": "Ethernet 2",
+        "attributes": {
+          "hardwareType": "Network",
+          "identifier": "/nic/%7B5313D592-DC04-4803-BEAB-8BAFB0CDE138%7D"
+        }
+      },
+      "collectedAt": "2026-06-08T04:50:44.775Z",
+      "metrics": [
+        {
+          "name": "network.data.data_uploaded",
+          "value": 0,
+          "unit": "GB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.data.data_downloaded",
+          "value": 0,
+          "unit": "GB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.throughput.upload_speed",
+          "value": 0,
+          "unit": "B/s",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.throughput.download_speed",
+          "value": 0,
+          "unit": "B/s",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.load.network_utilization",
+          "unit": "%",
+          "status": 1,
+          "message": "Sensor value is null, NaN, Infinity, or -Infinity."
+        }
+      ]
+    },
+    {
+      "device": {
+        "deviceId": "a188f6deff3acb13",
+        "type": 5,
+        "name": "Ethernet 3",
+        "vendor": "",
+        "model": "Ethernet 3",
+        "attributes": {
+          "hardwareType": "Network",
+          "identifier": "/nic/%7B88147CCB-1AC8-467E-B964-F49A6901D297%7D"
+        }
+      },
+      "collectedAt": "2026-06-08T04:50:44.775Z",
+      "metrics": [
+        {
+          "name": "network.data.data_uploaded",
+          "value": 0,
+          "unit": "GB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.data.data_downloaded",
+          "value": 0,
+          "unit": "GB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.throughput.upload_speed",
+          "value": 0,
+          "unit": "B/s",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.throughput.download_speed",
+          "value": 0,
+          "unit": "B/s",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.load.network_utilization",
+          "value": 0,
+          "unit": "%",
+          "status": 0,
+          "message": ""
+        }
+      ]
+    },
+    {
+      "device": {
+        "deviceId": "e783bbf9bbfb8617",
+        "type": 5,
+        "name": "Ethernet 3-QoS Packet Scheduler-0000",
+        "vendor": "",
+        "model": "Ethernet 3-QoS Packet Scheduler-0000",
+        "attributes": {
+          "hardwareType": "Network",
+          "identifier": "/nic/%7BBA8097EB-614A-11F1-9305-806E6F6E6963%7D"
+        }
+      },
+      "collectedAt": "2026-06-08T04:50:44.775Z",
+      "metrics": [
+        {
+          "name": "network.data.data_uploaded",
+          "value": 0,
+          "unit": "GB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.data.data_downloaded",
+          "value": 0,
+          "unit": "GB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.throughput.upload_speed",
+          "value": 0,
+          "unit": "B/s",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.throughput.download_speed",
+          "value": 0,
+          "unit": "B/s",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.load.network_utilization",
+          "value": 0,
+          "unit": "%",
+          "status": 0,
+          "message": ""
+        }
+      ]
+    },
+    {
+      "device": {
+        "deviceId": "ee235f8f054085b4",
+        "type": 5,
+        "name": "Ethernet 3-WFP 802.3 MAC Layer LightWeight Filter-0000",
+        "vendor": "",
+        "model": "Ethernet 3-WFP 802.3 MAC Layer LightWeight Filter-0000",
+        "attributes": {
+          "hardwareType": "Network",
+          "identifier": "/nic/%7BBA8097EC-614A-11F1-9305-806E6F6E6963%7D"
+        }
+      },
+      "collectedAt": "2026-06-08T04:50:44.775Z",
+      "metrics": [
+        {
+          "name": "network.data.data_uploaded",
+          "value": 0,
+          "unit": "GB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.data.data_downloaded",
+          "value": 0,
+          "unit": "GB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.throughput.upload_speed",
+          "value": 0,
+          "unit": "B/s",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.throughput.download_speed",
+          "value": 0,
+          "unit": "B/s",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.load.network_utilization",
+          "value": 0,
+          "unit": "%",
+          "status": 0,
+          "message": ""
+        }
+      ]
+    },
+    {
+      "device": {
+        "deviceId": "d12506b83d55baf0",
+        "type": 5,
+        "name": "Ethernet 3-WFP Native MAC Layer LightWeight Filter-0000",
+        "vendor": "",
+        "model": "Ethernet 3-WFP Native MAC Layer LightWeight Filter-0000",
+        "attributes": {
+          "hardwareType": "Network",
+          "identifier": "/nic/%7BBA8097EA-614A-11F1-9305-806E6F6E6963%7D"
+        }
+      },
+      "collectedAt": "2026-06-08T04:50:44.775Z",
+      "metrics": [
+        {
+          "name": "network.data.data_uploaded",
+          "value": 0,
+          "unit": "GB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.data.data_downloaded",
+          "value": 0,
+          "unit": "GB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.throughput.upload_speed",
+          "value": 0,
+          "unit": "B/s",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.throughput.download_speed",
+          "value": 0,
+          "unit": "B/s",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.load.network_utilization",
+          "value": 0,
+          "unit": "%",
+          "status": 0,
+          "message": ""
+        }
+      ]
+    },
+    {
+      "device": {
+        "deviceId": "b93b206224117a75",
+        "type": 5,
+        "name": "Ethernet 4",
+        "vendor": "",
+        "model": "Ethernet 4",
+        "attributes": {
+          "hardwareType": "Network",
+          "identifier": "/nic/%7B0D52130A-F8F7-4B1C-822C-BE3FA78B06B7%7D"
+        }
+      },
+      "collectedAt": "2026-06-08T04:50:44.775Z",
+      "metrics": [
+        {
+          "name": "network.data.data_uploaded",
+          "value": 0,
+          "unit": "GB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.data.data_downloaded",
+          "value": 0,
+          "unit": "GB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.throughput.upload_speed",
+          "value": 0,
+          "unit": "B/s",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.throughput.download_speed",
+          "value": 0,
+          "unit": "B/s",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.load.network_utilization",
+          "unit": "%",
+          "status": 1,
+          "message": "Sensor value is null, NaN, Infinity, or -Infinity."
+        }
+      ]
+    },
+    {
+      "device": {
+        "deviceId": "f8e19aeaf8d959a2",
+        "type": 5,
+        "name": "Ethernet 5",
+        "vendor": "",
+        "model": "Ethernet 5",
+        "attributes": {
+          "hardwareType": "Network",
+          "identifier": "/nic/%7B9F061859-514C-45CF-8134-BC6421D47545%7D"
+        }
+      },
+      "collectedAt": "2026-06-08T04:50:44.775Z",
+      "metrics": [
+        {
+          "name": "network.data.data_uploaded",
+          "value": 0,
+          "unit": "GB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.data.data_downloaded",
+          "value": 0,
+          "unit": "GB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.throughput.upload_speed",
+          "value": 0,
+          "unit": "B/s",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.throughput.download_speed",
+          "value": 0,
+          "unit": "B/s",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.load.network_utilization",
+          "value": 0,
+          "unit": "%",
+          "status": 0,
+          "message": ""
+        }
+      ]
+    },
+    {
+      "device": {
+        "deviceId": "bc2193a43035a3cc",
+        "type": 5,
+        "name": "Ethernet 5-QoS Packet Scheduler-0000",
+        "vendor": "",
+        "model": "Ethernet 5-QoS Packet Scheduler-0000",
+        "attributes": {
+          "hardwareType": "Network",
+          "identifier": "/nic/%7BBA8097EE-614A-11F1-9305-806E6F6E6963%7D"
+        }
+      },
+      "collectedAt": "2026-06-08T04:50:44.775Z",
+      "metrics": [
+        {
+          "name": "network.data.data_uploaded",
+          "value": 0,
+          "unit": "GB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.data.data_downloaded",
+          "value": 0,
+          "unit": "GB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.throughput.upload_speed",
+          "value": 0,
+          "unit": "B/s",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.throughput.download_speed",
+          "value": 0,
+          "unit": "B/s",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.load.network_utilization",
+          "value": 0,
+          "unit": "%",
+          "status": 0,
+          "message": ""
+        }
+      ]
+    },
+    {
+      "device": {
+        "deviceId": "a0e9167149dece14",
+        "type": 5,
+        "name": "Ethernet 5-WFP 802.3 MAC Layer LightWeight Filter-0000",
+        "vendor": "",
+        "model": "Ethernet 5-WFP 802.3 MAC Layer LightWeight Filter-0000",
+        "attributes": {
+          "hardwareType": "Network",
+          "identifier": "/nic/%7BBA8097EF-614A-11F1-9305-806E6F6E6963%7D"
+        }
+      },
+      "collectedAt": "2026-06-08T04:50:44.775Z",
+      "metrics": [
+        {
+          "name": "network.data.data_uploaded",
+          "value": 0,
+          "unit": "GB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.data.data_downloaded",
+          "value": 0,
+          "unit": "GB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.throughput.upload_speed",
+          "value": 0,
+          "unit": "B/s",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.throughput.download_speed",
+          "value": 0,
+          "unit": "B/s",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.load.network_utilization",
+          "value": 0,
+          "unit": "%",
+          "status": 0,
+          "message": ""
+        }
+      ]
+    },
+    {
+      "device": {
+        "deviceId": "82423ddc14e921cc",
+        "type": 5,
+        "name": "Ethernet 5-WFP Native MAC Layer LightWeight Filter-0000",
+        "vendor": "",
+        "model": "Ethernet 5-WFP Native MAC Layer LightWeight Filter-0000",
+        "attributes": {
+          "hardwareType": "Network",
+          "identifier": "/nic/%7BBA8097ED-614A-11F1-9305-806E6F6E6963%7D"
+        }
+      },
+      "collectedAt": "2026-06-08T04:50:44.775Z",
+      "metrics": [
+        {
+          "name": "network.data.data_uploaded",
+          "value": 0,
+          "unit": "GB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.data.data_downloaded",
+          "value": 0,
+          "unit": "GB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.throughput.upload_speed",
+          "value": 0,
+          "unit": "B/s",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.throughput.download_speed",
+          "value": 0,
+          "unit": "B/s",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.load.network_utilization",
+          "value": 0,
+          "unit": "%",
+          "status": 0,
+          "message": ""
+        }
+      ]
+    },
+    {
+      "device": {
+        "deviceId": "4e7d8165dc5e509b",
+        "type": 5,
+        "name": "Ethernet-QoS Packet Scheduler-0000",
+        "vendor": "",
+        "model": "Ethernet-QoS Packet Scheduler-0000",
+        "attributes": {
+          "hardwareType": "Network",
+          "identifier": "/nic/%7BBA8097F4-614A-11F1-9305-806E6F6E6963%7D"
+        }
+      },
+      "collectedAt": "2026-06-08T04:50:44.775Z",
+      "metrics": [
+        {
+          "name": "network.data.data_uploaded",
+          "value": 0,
+          "unit": "GB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.data.data_downloaded",
+          "value": 0,
+          "unit": "GB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.throughput.upload_speed",
+          "value": 0,
+          "unit": "B/s",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.throughput.download_speed",
+          "value": 0,
+          "unit": "B/s",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.load.network_utilization",
+          "value": 0,
+          "unit": "%",
+          "status": 0,
+          "message": ""
+        }
+      ]
+    },
+    {
+      "device": {
+        "deviceId": "a6d9f3ae592f469e",
+        "type": 5,
+        "name": "Ethernet-VirtualBox NDIS Light-Weight Filter-0000",
+        "vendor": "",
+        "model": "Ethernet-VirtualBox NDIS Light-Weight Filter-0000",
+        "attributes": {
+          "hardwareType": "Network",
+          "identifier": "/nic/%7B0D0FD899-2E31-11EE-919E-A029429ACD69%7D"
+        }
+      },
+      "collectedAt": "2026-06-08T04:50:44.775Z",
+      "metrics": [
+        {
+          "name": "network.data.data_uploaded",
+          "value": 0,
+          "unit": "GB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.data.data_downloaded",
+          "value": 0,
+          "unit": "GB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.throughput.upload_speed",
+          "value": 0,
+          "unit": "B/s",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.throughput.download_speed",
+          "value": 0,
+          "unit": "B/s",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.load.network_utilization",
+          "value": 0,
+          "unit": "%",
+          "status": 0,
+          "message": ""
+        }
+      ]
+    },
+    {
+      "device": {
+        "deviceId": "640e1e6f4509c563",
+        "type": 5,
+        "name": "Ethernet-WFP 802.3 MAC Layer LightWeight Filter-0000",
+        "vendor": "",
+        "model": "Ethernet-WFP 802.3 MAC Layer LightWeight Filter-0000",
+        "attributes": {
+          "hardwareType": "Network",
+          "identifier": "/nic/%7BBA8097F5-614A-11F1-9305-806E6F6E6963%7D"
+        }
+      },
+      "collectedAt": "2026-06-08T04:50:44.775Z",
+      "metrics": [
+        {
+          "name": "network.data.data_uploaded",
+          "value": 0,
+          "unit": "GB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.data.data_downloaded",
+          "value": 0,
+          "unit": "GB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.throughput.upload_speed",
+          "value": 0,
+          "unit": "B/s",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.throughput.download_speed",
+          "value": 0,
+          "unit": "B/s",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.load.network_utilization",
+          "value": 0,
+          "unit": "%",
+          "status": 0,
+          "message": ""
+        }
+      ]
+    },
+    {
+      "device": {
+        "deviceId": "1668f8393fe5987e",
+        "type": 5,
+        "name": "Ethernet-WFP Native MAC Layer LightWeight Filter-0000",
+        "vendor": "",
+        "model": "Ethernet-WFP Native MAC Layer LightWeight Filter-0000",
+        "attributes": {
+          "hardwareType": "Network",
+          "identifier": "/nic/%7BBA8097F3-614A-11F1-9305-806E6F6E6963%7D"
+        }
+      },
+      "collectedAt": "2026-06-08T04:50:44.775Z",
+      "metrics": [
+        {
+          "name": "network.data.data_uploaded",
+          "value": 0,
+          "unit": "GB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.data.data_downloaded",
+          "value": 0,
+          "unit": "GB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.throughput.upload_speed",
+          "value": 0,
+          "unit": "B/s",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.throughput.download_speed",
+          "value": 0,
+          "unit": "B/s",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.load.network_utilization",
+          "value": 0,
+          "unit": "%",
+          "status": 0,
+          "message": ""
+        }
+      ]
+    },
+    {
+      "device": {
+        "deviceId": "b142a59f1005946e",
+        "type": 5,
+        "name": "Local Area Connection* 10",
+        "vendor": "",
+        "model": "Local Area Connection* 10",
+        "attributes": {
+          "hardwareType": "Network",
+          "identifier": "/nic/%7BE3F5AE90-D32F-43EC-8AA1-BD7FAC62A8AA%7D"
+        }
+      },
+      "collectedAt": "2026-06-08T04:50:44.775Z",
+      "metrics": [
+        {
+          "name": "network.data.data_uploaded",
+          "value": 0,
+          "unit": "GB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.data.data_downloaded",
+          "value": 0,
+          "unit": "GB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.throughput.upload_speed",
+          "value": 0,
+          "unit": "B/s",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.throughput.download_speed",
+          "value": 0,
+          "unit": "B/s",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.load.network_utilization",
+          "value": 0,
+          "unit": "%",
+          "status": 0,
+          "message": ""
+        }
+      ]
+    },
+    {
+      "device": {
+        "deviceId": "80f15d0101ee52e6",
+        "type": 5,
+        "name": "Local Area Connection* 10-Native WiFi Filter Driver-0000",
+        "vendor": "",
+        "model": "Local Area Connection* 10-Native WiFi Filter Driver-0000",
+        "attributes": {
+          "hardwareType": "Network",
+          "identifier": "/nic/%7B057B8780-5B3A-11F0-9277-A029429ACD69%7D"
+        }
+      },
+      "collectedAt": "2026-06-08T04:50:44.775Z",
+      "metrics": [
+        {
+          "name": "network.data.data_uploaded",
+          "value": 0,
+          "unit": "GB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.data.data_downloaded",
+          "value": 0,
+          "unit": "GB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.throughput.upload_speed",
+          "value": 0,
+          "unit": "B/s",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.throughput.download_speed",
+          "value": 0,
+          "unit": "B/s",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.load.network_utilization",
+          "value": 0,
+          "unit": "%",
+          "status": 0,
+          "message": ""
+        }
+      ]
+    },
+    {
+      "device": {
+        "deviceId": "7107be7ca67381a8",
+        "type": 5,
+        "name": "Local Area Connection* 10-QoS Packet Scheduler-0000",
+        "vendor": "",
+        "model": "Local Area Connection* 10-QoS Packet Scheduler-0000",
+        "attributes": {
+          "hardwareType": "Network",
+          "identifier": "/nic/%7BBA809A8C-614A-11F1-9305-A029429ACD69%7D"
+        }
+      },
+      "collectedAt": "2026-06-08T04:50:44.775Z",
+      "metrics": [
+        {
+          "name": "network.data.data_uploaded",
+          "value": 0,
+          "unit": "GB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.data.data_downloaded",
+          "value": 0,
+          "unit": "GB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.throughput.upload_speed",
+          "value": 0,
+          "unit": "B/s",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.throughput.download_speed",
+          "value": 0,
+          "unit": "B/s",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.load.network_utilization",
+          "value": 0,
+          "unit": "%",
+          "status": 0,
+          "message": ""
+        }
+      ]
+    },
+    {
+      "device": {
+        "deviceId": "e89bbc4c83971c2c",
+        "type": 5,
+        "name": "Local Area Connection* 10-VirtualBox NDIS Light-Weight Filter-0000",
+        "vendor": "",
+        "model": "Local Area Connection* 10-VirtualBox NDIS Light-Weight Filter-0000",
+        "attributes": {
+          "hardwareType": "Network",
+          "identifier": "/nic/%7B0D0FD89B-2E31-11EE-919E-A029429ACD69%7D"
+        }
+      },
+      "collectedAt": "2026-06-08T04:50:44.775Z",
+      "metrics": [
+        {
+          "name": "network.data.data_uploaded",
+          "value": 0,
+          "unit": "GB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.data.data_downloaded",
+          "value": 0,
+          "unit": "GB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.throughput.upload_speed",
+          "value": 0,
+          "unit": "B/s",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.throughput.download_speed",
+          "value": 0,
+          "unit": "B/s",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.load.network_utilization",
+          "value": 0,
+          "unit": "%",
+          "status": 0,
+          "message": ""
+        }
+      ]
+    },
+    {
+      "device": {
+        "deviceId": "66d290c6cd7671e0",
+        "type": 5,
+        "name": "Local Area Connection* 10-WFP 802.3 MAC Layer LightWeight Filter-0000",
+        "vendor": "",
+        "model": "Local Area Connection* 10-WFP 802.3 MAC Layer LightWeight Filter-0000",
+        "attributes": {
+          "hardwareType": "Network",
+          "identifier": "/nic/%7BBA809A8D-614A-11F1-9305-A029429ACD69%7D"
+        }
+      },
+      "collectedAt": "2026-06-08T04:50:44.775Z",
+      "metrics": [
+        {
+          "name": "network.data.data_uploaded",
+          "value": 0,
+          "unit": "GB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.data.data_downloaded",
+          "value": 0,
+          "unit": "GB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.throughput.upload_speed",
+          "value": 0,
+          "unit": "B/s",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.throughput.download_speed",
+          "value": 0,
+          "unit": "B/s",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.load.network_utilization",
+          "value": 0,
+          "unit": "%",
+          "status": 0,
+          "message": ""
+        }
+      ]
+    },
+    {
+      "device": {
+        "deviceId": "e7dd81d0dfff956d",
+        "type": 5,
+        "name": "Local Area Connection* 10-WFP Native MAC Layer LightWeight Filter-0000",
+        "vendor": "",
+        "model": "Local Area Connection* 10-WFP Native MAC Layer LightWeight Filter-0000",
+        "attributes": {
+          "hardwareType": "Network",
+          "identifier": "/nic/%7BBA809A8B-614A-11F1-9305-A029429ACD69%7D"
+        }
+      },
+      "collectedAt": "2026-06-08T04:50:44.775Z",
+      "metrics": [
+        {
+          "name": "network.data.data_uploaded",
+          "value": 0,
+          "unit": "GB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.data.data_downloaded",
+          "value": 0,
+          "unit": "GB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.throughput.upload_speed",
+          "value": 0,
+          "unit": "B/s",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.throughput.download_speed",
+          "value": 0,
+          "unit": "B/s",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.load.network_utilization",
+          "value": 0,
+          "unit": "%",
+          "status": 0,
+          "message": ""
+        }
+      ]
+    },
+    {
+      "device": {
+        "deviceId": "0bf19c3cd1a80ed2",
+        "type": 5,
+        "name": "Local Area Connection* 5",
+        "vendor": "",
+        "model": "Local Area Connection* 5",
+        "attributes": {
+          "hardwareType": "Network",
+          "identifier": "/nic/%7B61251001-0ED3-4746-8E99-AD534F7AF4A8%7D"
+        }
+      },
+      "collectedAt": "2026-06-08T04:50:44.775Z",
+      "metrics": [
+        {
+          "name": "network.data.data_uploaded",
+          "value": 0,
+          "unit": "GB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.data.data_downloaded",
+          "value": 0,
+          "unit": "GB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.throughput.upload_speed",
+          "value": 0,
+          "unit": "B/s",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.throughput.download_speed",
+          "value": 0,
+          "unit": "B/s",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.load.network_utilization",
+          "value": 0,
+          "unit": "%",
+          "status": 0,
+          "message": ""
+        }
+      ]
+    },
+    {
+      "device": {
+        "deviceId": "aa1565fa6534652a",
+        "type": 5,
+        "name": "Local Area Connection* 6",
+        "vendor": "",
+        "model": "Local Area Connection* 6",
+        "attributes": {
+          "hardwareType": "Network",
+          "identifier": "/nic/%7B4742CE1B-E174-4DF2-98FB-1E350316D409%7D"
+        }
+      },
+      "collectedAt": "2026-06-08T04:50:44.775Z",
+      "metrics": [
+        {
+          "name": "network.data.data_uploaded",
+          "value": 0,
+          "unit": "GB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.data.data_downloaded",
+          "value": 0,
+          "unit": "GB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.throughput.upload_speed",
+          "value": 0,
+          "unit": "B/s",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.throughput.download_speed",
+          "value": 0,
+          "unit": "B/s",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.load.network_utilization",
+          "value": 0,
+          "unit": "%",
+          "status": 0,
+          "message": ""
+        }
+      ]
+    },
+    {
+      "device": {
+        "deviceId": "a74a86e479f3a475",
+        "type": 5,
+        "name": "Local Area Connection* 6-QoS Packet Scheduler-0000",
+        "vendor": "",
+        "model": "Local Area Connection* 6-QoS Packet Scheduler-0000",
+        "attributes": {
+          "hardwareType": "Network",
+          "identifier": "/nic/%7BBA809896-614A-11F1-9305-A029429ACD69%7D"
+        }
+      },
+      "collectedAt": "2026-06-08T04:50:44.775Z",
+      "metrics": [
+        {
+          "name": "network.data.data_uploaded",
+          "value": 0,
+          "unit": "GB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.data.data_downloaded",
+          "value": 0,
+          "unit": "GB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.throughput.upload_speed",
+          "value": 0,
+          "unit": "B/s",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.throughput.download_speed",
+          "value": 0,
+          "unit": "B/s",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.load.network_utilization",
+          "value": 0,
+          "unit": "%",
+          "status": 0,
+          "message": ""
+        }
+      ]
+    },
+    {
+      "device": {
+        "deviceId": "91fcd05e2c648e3a",
+        "type": 5,
+        "name": "Local Area Connection* 6-WFP Native MAC Layer LightWeight Filter-0000",
+        "vendor": "",
+        "model": "Local Area Connection* 6-WFP Native MAC Layer LightWeight Filter-0000",
+        "attributes": {
+          "hardwareType": "Network",
+          "identifier": "/nic/%7BBA809895-614A-11F1-9305-A029429ACD69%7D"
+        }
+      },
+      "collectedAt": "2026-06-08T04:50:44.775Z",
+      "metrics": [
+        {
+          "name": "network.data.data_uploaded",
+          "value": 0,
+          "unit": "GB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.data.data_downloaded",
+          "value": 0,
+          "unit": "GB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.throughput.upload_speed",
+          "value": 0,
+          "unit": "B/s",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.throughput.download_speed",
+          "value": 0,
+          "unit": "B/s",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.load.network_utilization",
+          "value": 0,
+          "unit": "%",
+          "status": 0,
+          "message": ""
+        }
+      ]
+    },
+    {
+      "device": {
+        "deviceId": "190745427e1813f9",
+        "type": 5,
+        "name": "Local Area Connection* 7",
+        "vendor": "",
+        "model": "Local Area Connection* 7",
+        "attributes": {
+          "hardwareType": "Network",
+          "identifier": "/nic/%7B277A012A-341C-463F-B1FB-E5DC79B93642%7D"
+        }
+      },
+      "collectedAt": "2026-06-08T04:50:44.775Z",
+      "metrics": [
+        {
+          "name": "network.data.data_uploaded",
+          "value": 0,
+          "unit": "GB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.data.data_downloaded",
+          "value": 0,
+          "unit": "GB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.throughput.upload_speed",
+          "value": 0,
+          "unit": "B/s",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.throughput.download_speed",
+          "value": 0,
+          "unit": "B/s",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.load.network_utilization",
+          "value": 0,
+          "unit": "%",
+          "status": 0,
+          "message": ""
+        }
+      ]
+    },
+    {
+      "device": {
+        "deviceId": "130e6aeb1b8dceb0",
+        "type": 5,
+        "name": "Local Area Connection* 7-QoS Packet Scheduler-0000",
+        "vendor": "",
+        "model": "Local Area Connection* 7-QoS Packet Scheduler-0000",
+        "attributes": {
+          "hardwareType": "Network",
+          "identifier": "/nic/%7BBA809898-614A-11F1-9305-A029429ACD69%7D"
+        }
+      },
+      "collectedAt": "2026-06-08T04:50:44.775Z",
+      "metrics": [
+        {
+          "name": "network.data.data_uploaded",
+          "value": 0,
+          "unit": "GB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.data.data_downloaded",
+          "value": 0,
+          "unit": "GB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.throughput.upload_speed",
+          "value": 0,
+          "unit": "B/s",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.throughput.download_speed",
+          "value": 0,
+          "unit": "B/s",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.load.network_utilization",
+          "value": 0,
+          "unit": "%",
+          "status": 0,
+          "message": ""
+        }
+      ]
+    },
+    {
+      "device": {
+        "deviceId": "a4e88f1c1f130400",
+        "type": 5,
+        "name": "Local Area Connection* 7-WFP Native MAC Layer LightWeight Filter-0000",
+        "vendor": "",
+        "model": "Local Area Connection* 7-WFP Native MAC Layer LightWeight Filter-0000",
+        "attributes": {
+          "hardwareType": "Network",
+          "identifier": "/nic/%7BBA809897-614A-11F1-9305-A029429ACD69%7D"
+        }
+      },
+      "collectedAt": "2026-06-08T04:50:44.775Z",
+      "metrics": [
+        {
+          "name": "network.data.data_uploaded",
+          "value": 0,
+          "unit": "GB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.data.data_downloaded",
+          "value": 0,
+          "unit": "GB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.throughput.upload_speed",
+          "value": 0,
+          "unit": "B/s",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.throughput.download_speed",
+          "value": 0,
+          "unit": "B/s",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.load.network_utilization",
+          "value": 0,
+          "unit": "%",
+          "status": 0,
+          "message": ""
+        }
+      ]
+    },
+    {
+      "device": {
+        "deviceId": "9381971d2a62ff8c",
+        "type": 5,
+        "name": "Local Area Connection* 8",
+        "vendor": "",
+        "model": "Local Area Connection* 8",
+        "attributes": {
+          "hardwareType": "Network",
+          "identifier": "/nic/%7B0258432A-BB78-4DE3-84C5-17E4AB7C748A%7D"
+        }
+      },
+      "collectedAt": "2026-06-08T04:50:44.775Z",
+      "metrics": [
+        {
+          "name": "network.data.data_uploaded",
+          "value": 0,
+          "unit": "GB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.data.data_downloaded",
+          "value": 0,
+          "unit": "GB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.throughput.upload_speed",
+          "value": 0,
+          "unit": "B/s",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.throughput.download_speed",
+          "value": 0,
+          "unit": "B/s",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.load.network_utilization",
+          "value": 0,
+          "unit": "%",
+          "status": 0,
+          "message": ""
+        }
+      ]
+    },
+    {
+      "device": {
+        "deviceId": "ec3f8f2cb5f41b03",
+        "type": 5,
+        "name": "Local Area Connection* 8-QoS Packet Scheduler-0000",
+        "vendor": "",
+        "model": "Local Area Connection* 8-QoS Packet Scheduler-0000",
+        "attributes": {
+          "hardwareType": "Network",
+          "identifier": "/nic/%7BBA80989A-614A-11F1-9305-A029429ACD69%7D"
+        }
+      },
+      "collectedAt": "2026-06-08T04:50:44.775Z",
+      "metrics": [
+        {
+          "name": "network.data.data_uploaded",
+          "value": 0,
+          "unit": "GB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.data.data_downloaded",
+          "value": 0,
+          "unit": "GB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.throughput.upload_speed",
+          "value": 0,
+          "unit": "B/s",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.throughput.download_speed",
+          "value": 0,
+          "unit": "B/s",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.load.network_utilization",
+          "value": 0,
+          "unit": "%",
+          "status": 0,
+          "message": ""
+        }
+      ]
+    },
+    {
+      "device": {
+        "deviceId": "b91c05869c7e087d",
+        "type": 5,
+        "name": "Local Area Connection* 8-WFP Native MAC Layer LightWeight Filter-0000",
+        "vendor": "",
+        "model": "Local Area Connection* 8-WFP Native MAC Layer LightWeight Filter-0000",
+        "attributes": {
+          "hardwareType": "Network",
+          "identifier": "/nic/%7BBA809899-614A-11F1-9305-A029429ACD69%7D"
+        }
+      },
+      "collectedAt": "2026-06-08T04:50:44.775Z",
+      "metrics": [
+        {
+          "name": "network.data.data_uploaded",
+          "value": 0,
+          "unit": "GB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.data.data_downloaded",
+          "value": 0,
+          "unit": "GB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.throughput.upload_speed",
+          "value": 0,
+          "unit": "B/s",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.throughput.download_speed",
+          "value": 0,
+          "unit": "B/s",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.load.network_utilization",
+          "value": 0,
+          "unit": "%",
+          "status": 0,
+          "message": ""
+        }
+      ]
+    },
+    {
+      "device": {
+        "deviceId": "f6eb895a3cee17e6",
+        "type": 5,
+        "name": "Local Area Connection* 9",
+        "vendor": "",
+        "model": "Local Area Connection* 9",
+        "attributes": {
+          "hardwareType": "Network",
+          "identifier": "/nic/%7B565F5BDD-FE65-4B63-81CE-D90F62171E2F%7D"
+        }
+      },
+      "collectedAt": "2026-06-08T04:50:44.775Z",
+      "metrics": [
+        {
+          "name": "network.data.data_uploaded",
+          "value": 0,
+          "unit": "GB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.data.data_downloaded",
+          "value": 0,
+          "unit": "GB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.throughput.upload_speed",
+          "value": 0,
+          "unit": "B/s",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.throughput.download_speed",
+          "value": 0,
+          "unit": "B/s",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.load.network_utilization",
+          "value": 0,
+          "unit": "%",
+          "status": 0,
+          "message": ""
+        }
+      ]
+    },
+    {
+      "device": {
+        "deviceId": "c1b596d739fa4543",
+        "type": 5,
+        "name": "Local Area Connection* 9-Native WiFi Filter Driver-0000",
+        "vendor": "",
+        "model": "Local Area Connection* 9-Native WiFi Filter Driver-0000",
+        "attributes": {
+          "hardwareType": "Network",
+          "identifier": "/nic/%7BBF264804-5B39-11F0-9276-008A2CC7306B%7D"
+        }
+      },
+      "collectedAt": "2026-06-08T04:50:44.775Z",
+      "metrics": [
+        {
+          "name": "network.data.data_uploaded",
+          "value": 0,
+          "unit": "GB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.data.data_downloaded",
+          "value": 0,
+          "unit": "GB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.throughput.upload_speed",
+          "value": 0,
+          "unit": "B/s",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.throughput.download_speed",
+          "value": 0,
+          "unit": "B/s",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.load.network_utilization",
+          "value": 0,
+          "unit": "%",
+          "status": 0,
+          "message": ""
+        }
+      ]
+    },
+    {
+      "device": {
+        "deviceId": "59ed84518d74c79c",
+        "type": 5,
+        "name": "Local Area Connection* 9-QoS Packet Scheduler-0000",
+        "vendor": "",
+        "model": "Local Area Connection* 9-QoS Packet Scheduler-0000",
+        "attributes": {
+          "hardwareType": "Network",
+          "identifier": "/nic/%7BBA8098DE-614A-11F1-9305-A029429ACD69%7D"
+        }
+      },
+      "collectedAt": "2026-06-08T04:50:44.775Z",
+      "metrics": [
+        {
+          "name": "network.data.data_uploaded",
+          "value": 0,
+          "unit": "GB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.data.data_downloaded",
+          "value": 0,
+          "unit": "GB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.throughput.upload_speed",
+          "value": 0,
+          "unit": "B/s",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.throughput.download_speed",
+          "value": 0,
+          "unit": "B/s",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.load.network_utilization",
+          "value": 0,
+          "unit": "%",
+          "status": 0,
+          "message": ""
+        }
+      ]
+    },
+    {
+      "device": {
+        "deviceId": "205cd670d9b8f807",
+        "type": 5,
+        "name": "Local Area Connection* 9-VirtualBox NDIS Light-Weight Filter-0000",
+        "vendor": "",
+        "model": "Local Area Connection* 9-VirtualBox NDIS Light-Weight Filter-0000",
+        "attributes": {
+          "hardwareType": "Network",
+          "identifier": "/nic/%7B0D0FD893-2E31-11EE-919E-A029429ACD69%7D"
+        }
+      },
+      "collectedAt": "2026-06-08T04:50:44.775Z",
+      "metrics": [
+        {
+          "name": "network.data.data_uploaded",
+          "value": 0,
+          "unit": "GB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.data.data_downloaded",
+          "value": 0,
+          "unit": "GB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.throughput.upload_speed",
+          "value": 0,
+          "unit": "B/s",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.throughput.download_speed",
+          "value": 0,
+          "unit": "B/s",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.load.network_utilization",
+          "value": 0,
+          "unit": "%",
+          "status": 0,
+          "message": ""
+        }
+      ]
+    },
+    {
+      "device": {
+        "deviceId": "61f98d7ada9b86c1",
+        "type": 5,
+        "name": "Local Area Connection* 9-WFP 802.3 MAC Layer LightWeight Filter-0000",
+        "vendor": "",
+        "model": "Local Area Connection* 9-WFP 802.3 MAC Layer LightWeight Filter-0000",
+        "attributes": {
+          "hardwareType": "Network",
+          "identifier": "/nic/%7BBA8098E0-614A-11F1-9305-A029429ACD69%7D"
+        }
+      },
+      "collectedAt": "2026-06-08T04:50:44.775Z",
+      "metrics": [
+        {
+          "name": "network.data.data_uploaded",
+          "value": 0,
+          "unit": "GB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.data.data_downloaded",
+          "value": 0,
+          "unit": "GB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.throughput.upload_speed",
+          "value": 0,
+          "unit": "B/s",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.throughput.download_speed",
+          "value": 0,
+          "unit": "B/s",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.load.network_utilization",
+          "value": 0,
+          "unit": "%",
+          "status": 0,
+          "message": ""
+        }
+      ]
+    },
+    {
+      "device": {
+        "deviceId": "34b1320d0d0c9005",
+        "type": 5,
+        "name": "Local Area Connection* 9-WFP Native MAC Layer LightWeight Filter-0000",
+        "vendor": "",
+        "model": "Local Area Connection* 9-WFP Native MAC Layer LightWeight Filter-0000",
+        "attributes": {
+          "hardwareType": "Network",
+          "identifier": "/nic/%7BBA8098AD-614A-11F1-9305-A029429ACD69%7D"
+        }
+      },
+      "collectedAt": "2026-06-08T04:50:44.775Z",
+      "metrics": [
+        {
+          "name": "network.data.data_uploaded",
+          "value": 0,
+          "unit": "GB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.data.data_downloaded",
+          "value": 0,
+          "unit": "GB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.throughput.upload_speed",
+          "value": 0,
+          "unit": "B/s",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.throughput.download_speed",
+          "value": 0,
+          "unit": "B/s",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.load.network_utilization",
+          "value": 0,
+          "unit": "%",
+          "status": 0,
+          "message": ""
+        }
+      ]
+    },
+    {
+      "device": {
+        "deviceId": "d4dc80ed09bbbf84",
+        "type": 5,
+        "name": "vEthernet (WSL (Hyper-V firewall))",
+        "vendor": "",
+        "model": "vEthernet (WSL (Hyper-V firewall))",
+        "attributes": {
+          "hardwareType": "Network",
+          "identifier": "/nic/%7B5F7B09CA-91F3-43B1-9199-AA6D3D214651%7D"
+        }
+      },
+      "collectedAt": "2026-06-08T04:50:44.775Z",
+      "metrics": [
+        {
+          "name": "network.data.data_uploaded",
+          "value": 0.00033060834,
+          "unit": "GB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.data.data_downloaded",
+          "value": 8.730218E-06,
+          "unit": "GB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.throughput.upload_speed",
+          "value": 0,
+          "unit": "B/s",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.throughput.download_speed",
+          "value": 0,
+          "unit": "B/s",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.load.network_utilization",
+          "value": 0,
+          "unit": "%",
+          "status": 0,
+          "message": ""
+        }
+      ]
+    },
+    {
+      "device": {
+        "deviceId": "d046937d90273803",
+        "type": 5,
+        "name": "vEthernet (WSL (Hyper-V firewall))-QoS Packet Scheduler-0000",
+        "vendor": "",
+        "model": "vEthernet (WSL (Hyper-V firewall))-QoS Packet Scheduler-0000",
+        "attributes": {
+          "hardwareType": "Network",
+          "identifier": "/nic/%7B96B36D1F-6276-11F1-9305-A029429ACD69%7D"
+        }
+      },
+      "collectedAt": "2026-06-08T04:50:44.775Z",
+      "metrics": [
+        {
+          "name": "network.data.data_uploaded",
+          "value": 0.00033060834,
+          "unit": "GB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.data.data_downloaded",
+          "value": 8.730218E-06,
+          "unit": "GB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.throughput.upload_speed",
+          "value": 0,
+          "unit": "B/s",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.throughput.download_speed",
+          "value": 0,
+          "unit": "B/s",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.load.network_utilization",
+          "value": 0,
+          "unit": "%",
+          "status": 0,
+          "message": ""
+        }
+      ]
+    },
+    {
+      "device": {
+        "deviceId": "ceda8ee41415b7eb",
+        "type": 5,
+        "name": "vEthernet (WSL (Hyper-V firewall))-VirtualBox NDIS Light-Weight Filter-0000",
+        "vendor": "",
+        "model": "vEthernet (WSL (Hyper-V firewall))-VirtualBox NDIS Light-Weight Filter-0000",
+        "attributes": {
+          "hardwareType": "Network",
+          "identifier": "/nic/%7B96B36D1E-6276-11F1-9305-A029429ACD69%7D"
+        }
+      },
+      "collectedAt": "2026-06-08T04:50:44.775Z",
+      "metrics": [
+        {
+          "name": "network.data.data_uploaded",
+          "value": 0.00033060834,
+          "unit": "GB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.data.data_downloaded",
+          "value": 8.730218E-06,
+          "unit": "GB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.throughput.upload_speed",
+          "value": 0,
+          "unit": "B/s",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.throughput.download_speed",
+          "value": 0,
+          "unit": "B/s",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.load.network_utilization",
+          "value": 0,
+          "unit": "%",
+          "status": 0,
+          "message": ""
+        }
+      ]
+    },
+    {
+      "device": {
+        "deviceId": "1401b70261ee1187",
+        "type": 5,
+        "name": "vEthernet (WSL (Hyper-V firewall))-WFP 802.3 MAC Layer LightWeight Filter-0000",
+        "vendor": "",
+        "model": "vEthernet (WSL (Hyper-V firewall))-WFP 802.3 MAC Layer LightWeight Filter-0000",
+        "attributes": {
+          "hardwareType": "Network",
+          "identifier": "/nic/%7B96B36D20-6276-11F1-9305-A029429ACD69%7D"
+        }
+      },
+      "collectedAt": "2026-06-08T04:50:44.775Z",
+      "metrics": [
+        {
+          "name": "network.data.data_uploaded",
+          "value": 0.00033060834,
+          "unit": "GB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.data.data_downloaded",
+          "value": 8.730218E-06,
+          "unit": "GB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.throughput.upload_speed",
+          "value": 0,
+          "unit": "B/s",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.throughput.download_speed",
+          "value": 0,
+          "unit": "B/s",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.load.network_utilization",
+          "value": 0,
+          "unit": "%",
+          "status": 0,
+          "message": ""
+        }
+      ]
+    },
+    {
+      "device": {
+        "deviceId": "63601b74c73ace58",
+        "type": 5,
+        "name": "vEthernet (WSL (Hyper-V firewall))-WFP Native MAC Layer LightWeight Filter-0000",
+        "vendor": "",
+        "model": "vEthernet (WSL (Hyper-V firewall))-WFP Native MAC Layer LightWeight Filter-0000",
+        "attributes": {
+          "hardwareType": "Network",
+          "identifier": "/nic/%7B96B36D1D-6276-11F1-9305-A029429ACD69%7D"
+        }
+      },
+      "collectedAt": "2026-06-08T04:50:44.775Z",
+      "metrics": [
+        {
+          "name": "network.data.data_uploaded",
+          "value": 0.00033060834,
+          "unit": "GB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.data.data_downloaded",
+          "value": 8.730218E-06,
+          "unit": "GB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.throughput.upload_speed",
+          "value": 0,
+          "unit": "B/s",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.throughput.download_speed",
+          "value": 0,
+          "unit": "B/s",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.load.network_utilization",
+          "value": 0,
+          "unit": "%",
+          "status": 0,
+          "message": ""
+        }
+      ]
+    },
+    {
+      "device": {
+        "deviceId": "3f8a749b2c2c7279",
+        "type": 5,
+        "name": "VMware Network Adapter VMnet1",
+        "vendor": "",
+        "model": "VMware Network Adapter VMnet1",
+        "attributes": {
+          "hardwareType": "Network",
+          "identifier": "/nic/%7B5C2D6E9D-162E-47DF-8872-F8AB008E9BC4%7D"
+        }
+      },
+      "collectedAt": "2026-06-08T04:50:44.775Z",
+      "metrics": [
+        {
+          "name": "network.data.data_uploaded",
+          "value": 2.4959445E-06,
+          "unit": "GB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.data.data_downloaded",
+          "value": 4.284084E-08,
+          "unit": "GB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.throughput.upload_speed",
+          "value": 0,
+          "unit": "B/s",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.throughput.download_speed",
+          "value": 0,
+          "unit": "B/s",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.load.network_utilization",
+          "value": 0,
+          "unit": "%",
+          "status": 0,
+          "message": ""
+        }
+      ]
+    },
+    {
+      "device": {
+        "deviceId": "a5b6ae897b5fa117",
+        "type": 5,
+        "name": "VMware Network Adapter VMnet8",
+        "vendor": "",
+        "model": "VMware Network Adapter VMnet8",
+        "attributes": {
+          "hardwareType": "Network",
+          "identifier": "/nic/%7B3A38FEB2-CAC5-488C-9573-585FE748EDF8%7D"
+        }
+      },
+      "collectedAt": "2026-06-08T04:50:44.775Z",
+      "metrics": [
+        {
+          "name": "network.data.data_uploaded",
+          "value": 5.470589E-06,
+          "unit": "GB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.data.data_downloaded",
+          "value": 4.284084E-08,
+          "unit": "GB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.throughput.upload_speed",
+          "value": 0,
+          "unit": "B/s",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.throughput.download_speed",
+          "value": 0,
+          "unit": "B/s",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.load.network_utilization",
+          "value": 0,
+          "unit": "%",
+          "status": 0,
+          "message": ""
+        }
+      ]
+    },
+    {
+      "device": {
+        "deviceId": "be0916eec6a3243a",
+        "type": 5,
+        "name": "VPN111 - VPN Client",
+        "vendor": "",
+        "model": "VPN111 - VPN Client",
+        "attributes": {
+          "hardwareType": "Network",
+          "identifier": "/nic/%7B821795C6-4827-4F53-A2F9-1B5520A380BC%7D"
+        }
+      },
+      "collectedAt": "2026-06-08T04:50:44.775Z",
+      "metrics": [
+        {
+          "name": "network.data.data_uploaded",
+          "value": 0,
+          "unit": "GB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.data.data_downloaded",
+          "value": 0,
+          "unit": "GB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.throughput.upload_speed",
+          "value": 0,
+          "unit": "B/s",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.throughput.download_speed",
+          "value": 0,
+          "unit": "B/s",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.load.network_utilization",
+          "value": 0,
+          "unit": "%",
+          "status": 0,
+          "message": ""
+        }
+      ]
+    },
+    {
+      "device": {
+        "deviceId": "bc1d43de57e13fe4",
+        "type": 5,
+        "name": "VPN111 - VPN Client-QoS Packet Scheduler-0000",
+        "vendor": "",
+        "model": "VPN111 - VPN Client-QoS Packet Scheduler-0000",
+        "attributes": {
+          "hardwareType": "Network",
+          "identifier": "/nic/%7BBA8097F1-614A-11F1-9305-806E6F6E6963%7D"
+        }
+      },
+      "collectedAt": "2026-06-08T04:50:44.775Z",
+      "metrics": [
+        {
+          "name": "network.data.data_uploaded",
+          "value": 0,
+          "unit": "GB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.data.data_downloaded",
+          "value": 0,
+          "unit": "GB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.throughput.upload_speed",
+          "value": 0,
+          "unit": "B/s",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.throughput.download_speed",
+          "value": 0,
+          "unit": "B/s",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.load.network_utilization",
+          "value": 0,
+          "unit": "%",
+          "status": 0,
+          "message": ""
+        }
+      ]
+    },
+    {
+      "device": {
+        "deviceId": "9280dd506631895c",
+        "type": 5,
+        "name": "VPN111 - VPN Client-VirtualBox NDIS Light-Weight Filter-0000",
+        "vendor": "",
+        "model": "VPN111 - VPN Client-VirtualBox NDIS Light-Weight Filter-0000",
+        "attributes": {
+          "hardwareType": "Network",
+          "identifier": "/nic/%7B7E486954-8835-11EF-9200-C87F54A90BF1%7D"
+        }
+      },
+      "collectedAt": "2026-06-08T04:50:44.775Z",
+      "metrics": [
+        {
+          "name": "network.data.data_uploaded",
+          "value": 0,
+          "unit": "GB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.data.data_downloaded",
+          "value": 0,
+          "unit": "GB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.throughput.upload_speed",
+          "value": 0,
+          "unit": "B/s",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.throughput.download_speed",
+          "value": 0,
+          "unit": "B/s",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.load.network_utilization",
+          "value": 0,
+          "unit": "%",
+          "status": 0,
+          "message": ""
+        }
+      ]
+    },
+    {
+      "device": {
+        "deviceId": "ecd486c711512ae5",
+        "type": 5,
+        "name": "VPN111 - VPN Client-WFP 802.3 MAC Layer LightWeight Filter-0000",
+        "vendor": "",
+        "model": "VPN111 - VPN Client-WFP 802.3 MAC Layer LightWeight Filter-0000",
+        "attributes": {
+          "hardwareType": "Network",
+          "identifier": "/nic/%7BBA8097F2-614A-11F1-9305-806E6F6E6963%7D"
+        }
+      },
+      "collectedAt": "2026-06-08T04:50:44.775Z",
+      "metrics": [
+        {
+          "name": "network.data.data_uploaded",
+          "value": 0,
+          "unit": "GB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.data.data_downloaded",
+          "value": 0,
+          "unit": "GB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.throughput.upload_speed",
+          "value": 0,
+          "unit": "B/s",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.throughput.download_speed",
+          "value": 0,
+          "unit": "B/s",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.load.network_utilization",
+          "value": 0,
+          "unit": "%",
+          "status": 0,
+          "message": ""
+        }
+      ]
+    },
+    {
+      "device": {
+        "deviceId": "7235d174290ce3de",
+        "type": 5,
+        "name": "VPN111 - VPN Client-WFP Native MAC Layer LightWeight Filter-0000",
+        "vendor": "",
+        "model": "VPN111 - VPN Client-WFP Native MAC Layer LightWeight Filter-0000",
+        "attributes": {
+          "hardwareType": "Network",
+          "identifier": "/nic/%7BBA8097F0-614A-11F1-9305-806E6F6E6963%7D"
+        }
+      },
+      "collectedAt": "2026-06-08T04:50:44.775Z",
+      "metrics": [
+        {
+          "name": "network.data.data_uploaded",
+          "value": 0,
+          "unit": "GB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.data.data_downloaded",
+          "value": 0,
+          "unit": "GB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.throughput.upload_speed",
+          "value": 0,
+          "unit": "B/s",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.throughput.download_speed",
+          "value": 0,
+          "unit": "B/s",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.load.network_utilization",
+          "value": 0,
+          "unit": "%",
+          "status": 0,
+          "message": ""
+        }
+      ]
+    },
+    {
+      "device": {
+        "deviceId": "8e1ebd42ece609db",
+        "type": 5,
+        "name": "vSwitch (WSL (Hyper-V firewall))",
+        "vendor": "",
+        "model": "vSwitch (WSL (Hyper-V firewall))",
+        "attributes": {
+          "hardwareType": "Network",
+          "identifier": "/nic/%7B63A35481-1BBD-4FBD-8F36-137844AF9CEF%7D"
+        }
+      },
+      "collectedAt": "2026-06-08T04:50:44.775Z",
+      "metrics": [
+        {
+          "name": "network.data.data_uploaded",
+          "value": 0,
+          "unit": "GB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.data.data_downloaded",
+          "value": 0,
+          "unit": "GB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.throughput.upload_speed",
+          "value": 0,
+          "unit": "B/s",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.throughput.download_speed",
+          "value": 0,
+          "unit": "B/s",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.load.network_utilization",
+          "value": 0,
+          "unit": "%",
+          "status": 0,
+          "message": ""
+        }
+      ]
+    },
+    {
+      "device": {
+        "deviceId": "49b2049d136d2cc3",
+        "type": 5,
+        "name": "vSwitch (WSL (Hyper-V firewall))-Hyper-V Virtual Switch Extension Filter-0000",
+        "vendor": "",
+        "model": "vSwitch (WSL (Hyper-V firewall))-Hyper-V Virtual Switch Extension Filter-0000",
+        "attributes": {
+          "hardwareType": "Network",
+          "identifier": "/nic/%7B96B36D10-6276-11F1-9305-A029429ACD69%7D"
+        }
+      },
+      "collectedAt": "2026-06-08T04:50:44.775Z",
+      "metrics": [
+        {
+          "name": "network.data.data_uploaded",
+          "value": 0,
+          "unit": "GB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.data.data_downloaded",
+          "value": 0,
+          "unit": "GB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.throughput.upload_speed",
+          "value": 0,
+          "unit": "B/s",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.throughput.download_speed",
+          "value": 0,
+          "unit": "B/s",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.load.network_utilization",
+          "value": 0,
+          "unit": "%",
+          "status": 0,
+          "message": ""
+        }
+      ]
+    },
+    {
+      "device": {
+        "deviceId": "46a1bb7da90ba137",
+        "type": 5,
+        "name": "vSwitch (WSL (Hyper-V firewall))-Virtual Filtering Platform VMSwitch Extension-0000",
+        "vendor": "",
+        "model": "vSwitch (WSL (Hyper-V firewall))-Virtual Filtering Platform VMSwitch Extension-0000",
+        "attributes": {
+          "hardwareType": "Network",
+          "identifier": "/nic/%7B96B36D12-6276-11F1-9305-A029429ACD69%7D"
+        }
+      },
+      "collectedAt": "2026-06-08T04:50:44.775Z",
+      "metrics": [
+        {
+          "name": "network.data.data_uploaded",
+          "value": 0,
+          "unit": "GB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.data.data_downloaded",
+          "value": 0,
+          "unit": "GB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.throughput.upload_speed",
+          "value": 0,
+          "unit": "B/s",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.throughput.download_speed",
+          "value": 0,
+          "unit": "B/s",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.load.network_utilization",
+          "value": 0,
+          "unit": "%",
+          "status": 0,
+          "message": ""
+        }
+      ]
+    },
+    {
+      "device": {
+        "deviceId": "b438bc472f2f1b9d",
+        "type": 5,
+        "name": "Wi-Fi",
+        "vendor": "",
+        "model": "Wi-Fi",
+        "attributes": {
+          "hardwareType": "Network",
+          "identifier": "/nic/%7B784886AB-BAC2-4043-8724-B2E18887BDCE%7D"
+        }
+      },
+      "collectedAt": "2026-06-08T04:50:44.775Z",
+      "metrics": [
+        {
+          "name": "network.data.data_uploaded",
+          "value": 1.6567292,
+          "unit": "GB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.data.data_downloaded",
+          "value": 15.720148,
+          "unit": "GB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.throughput.upload_speed",
+          "value": 41699.703,
+          "unit": "B/s",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.throughput.download_speed",
+          "value": 1832.9928,
+          "unit": "B/s",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.load.network_utilization",
+          "value": 0.11608719,
+          "unit": "%",
+          "status": 0,
+          "message": ""
+        }
+      ]
+    },
+    {
+      "device": {
+        "deviceId": "3e178bb41942e10d",
+        "type": 5,
+        "name": "Wi-Fi-Native WiFi Filter Driver-0000",
+        "vendor": "",
+        "model": "Wi-Fi-Native WiFi Filter Driver-0000",
+        "attributes": {
+          "hardwareType": "Network",
+          "identifier": "/nic/%7BBF2647E5-5B39-11F0-9276-008A2CC7306B%7D"
+        }
+      },
+      "collectedAt": "2026-06-08T04:50:44.775Z",
+      "metrics": [
+        {
+          "name": "network.data.data_uploaded",
+          "value": 1.6567292,
+          "unit": "GB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.data.data_downloaded",
+          "value": 15.720148,
+          "unit": "GB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.throughput.upload_speed",
+          "value": 41700.61,
+          "unit": "B/s",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.throughput.download_speed",
+          "value": 1833.0326,
+          "unit": "B/s",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.load.network_utilization",
+          "value": 0.11608971,
+          "unit": "%",
+          "status": 0,
+          "message": ""
+        }
+      ]
+    },
+    {
+      "device": {
+        "deviceId": "1451ae8d5ac63ad3",
+        "type": 5,
+        "name": "Wi-Fi-QoS Packet Scheduler-0000",
+        "vendor": "",
+        "model": "Wi-Fi-QoS Packet Scheduler-0000",
+        "attributes": {
+          "hardwareType": "Network",
+          "identifier": "/nic/%7BBA809851-614A-11F1-9305-A029429ACD69%7D"
+        }
+      },
+      "collectedAt": "2026-06-08T04:50:44.775Z",
+      "metrics": [
+        {
+          "name": "network.data.data_uploaded",
+          "value": 1.6567292,
+          "unit": "GB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.data.data_downloaded",
+          "value": 15.720148,
+          "unit": "GB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.throughput.upload_speed",
+          "value": 41702.14,
+          "unit": "B/s",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.throughput.download_speed",
+          "value": 1833.1,
+          "unit": "B/s",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.load.network_utilization",
+          "value": 0.11609398,
+          "unit": "%",
+          "status": 0,
+          "message": ""
+        }
+      ]
+    },
+    {
+      "device": {
+        "deviceId": "3bcadb3ff86b96e1",
+        "type": 5,
+        "name": "Wi-Fi-Virtual WiFi Filter Driver-0000",
+        "vendor": "",
+        "model": "Wi-Fi-Virtual WiFi Filter Driver-0000",
+        "attributes": {
+          "hardwareType": "Network",
+          "identifier": "/nic/%7BBF2647E4-5B39-11F0-9276-008A2CC7306B%7D"
+        }
+      },
+      "collectedAt": "2026-06-08T04:50:44.775Z",
+      "metrics": [
+        {
+          "name": "network.data.data_uploaded",
+          "value": 1.6567292,
+          "unit": "GB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.data.data_downloaded",
+          "value": 15.720148,
+          "unit": "GB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.throughput.upload_speed",
+          "value": 41703.348,
+          "unit": "B/s",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.throughput.download_speed",
+          "value": 1833.1531,
+          "unit": "B/s",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.load.network_utilization",
+          "value": 0.11609734,
+          "unit": "%",
+          "status": 0,
+          "message": ""
+        }
+      ]
+    },
+    {
+      "device": {
+        "deviceId": "0895a7f53434a1d3",
+        "type": 5,
+        "name": "Wi-Fi-VirtualBox NDIS Light-Weight Filter-0000",
+        "vendor": "",
+        "model": "Wi-Fi-VirtualBox NDIS Light-Weight Filter-0000",
+        "attributes": {
+          "hardwareType": "Network",
+          "identifier": "/nic/%7B0D0FD897-2E31-11EE-919E-A029429ACD69%7D"
+        }
+      },
+      "collectedAt": "2026-06-08T04:50:44.775Z",
+      "metrics": [
+        {
+          "name": "network.data.data_uploaded",
+          "value": 1.6567292,
+          "unit": "GB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.data.data_downloaded",
+          "value": 15.720148,
+          "unit": "GB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.throughput.upload_speed",
+          "value": 41704.527,
+          "unit": "B/s",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.throughput.download_speed",
+          "value": 1833.2048,
+          "unit": "B/s",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.load.network_utilization",
+          "value": 0.11610062,
+          "unit": "%",
+          "status": 0,
+          "message": ""
+        }
+      ]
+    },
+    {
+      "device": {
+        "deviceId": "35203420cdabdbde",
+        "type": 5,
+        "name": "Wi-Fi-WFP 802.3 MAC Layer LightWeight Filter-0000",
+        "vendor": "",
+        "model": "Wi-Fi-WFP 802.3 MAC Layer LightWeight Filter-0000",
+        "attributes": {
+          "hardwareType": "Network",
+          "identifier": "/nic/%7BBA809852-614A-11F1-9305-A029429ACD69%7D"
+        }
+      },
+      "collectedAt": "2026-06-08T04:50:44.775Z",
+      "metrics": [
+        {
+          "name": "network.data.data_uploaded",
+          "value": 1.6567292,
+          "unit": "GB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.data.data_downloaded",
+          "value": 15.720148,
+          "unit": "GB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.throughput.upload_speed",
+          "value": 41705.8,
+          "unit": "B/s",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.throughput.download_speed",
+          "value": 1833.2609,
+          "unit": "B/s",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.load.network_utilization",
+          "value": 0.11610416,
+          "unit": "%",
+          "status": 0,
+          "message": ""
+        }
+      ]
+    },
+    {
+      "device": {
+        "deviceId": "f4ebbda24ee5819c",
+        "type": 5,
+        "name": "Wi-Fi-WFP Native MAC Layer LightWeight Filter-0000",
+        "vendor": "",
+        "model": "Wi-Fi-WFP Native MAC Layer LightWeight Filter-0000",
+        "attributes": {
+          "hardwareType": "Network",
+          "identifier": "/nic/%7BBA80984F-614A-11F1-9305-A029429ACD69%7D"
+        }
+      },
+      "collectedAt": "2026-06-08T04:50:44.775Z",
+      "metrics": [
+        {
+          "name": "network.data.data_uploaded",
+          "value": 1.6567292,
+          "unit": "GB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.data.data_downloaded",
+          "value": 15.720148,
+          "unit": "GB",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.throughput.upload_speed",
+          "value": 41707.07,
+          "unit": "B/s",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.throughput.download_speed",
+          "value": 1833.3165,
+          "unit": "B/s",
+          "status": 0,
+          "message": ""
+        },
+        {
+          "name": "network.load.network_utilization",
+          "value": 0.116107695,
+          "unit": "%",
+          "status": 0,
+          "message": ""
+        }
+      ]
+    }
+  ]
+}
