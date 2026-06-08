@@ -18,7 +18,9 @@ public class Program
         try
         {
             AgentSnapshot snapshot = collector.Collect(options);
-            writer.Write(options.OutputFile, snapshot);
+            // writer.Write(options.OutputFile, snapshot);
+            writer.WriteConsole(snapshot);
+
             return 0;
         }
         catch (Exception ex)
@@ -30,7 +32,8 @@ public class Program
                 ex
             );
 
-            writer.Write(options.OutputFile, errorSnapshot);
+            // writer.Write(options.OutputFile, errorSnapshot);
+            writer.WriteConsole(errorSnapshot);
             return 1;
         }
     }

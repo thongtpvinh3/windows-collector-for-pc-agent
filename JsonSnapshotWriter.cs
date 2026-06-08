@@ -15,6 +15,12 @@ public sealed class JsonSnapshotWriter
         Encoder = JavaScriptEncoder.UnsafeRelaxedJsonEscaping
     };
 
+    public void WriteConsole(AgentSnapshot snapshot)
+    {
+        string json = JsonSerializer.Serialize(snapshot, _options);
+        Console.WriteLine(json);
+    }
+
     public void Write(string? outputFile, AgentSnapshot snapshot)
     {
         string json = JsonSerializer.Serialize(snapshot, _options);
